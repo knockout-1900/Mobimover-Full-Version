@@ -254,3 +254,6 @@ This repository serves as the official landing page for MobiMover. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of MobiMover today!**
+
+---
+**Last updated:** 2026-09-10 23:02:54 UTC
